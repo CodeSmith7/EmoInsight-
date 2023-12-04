@@ -1,2 +1,2 @@
 # EmoInsight
-A facial emotion recognition web application using machine learning.
+An under Development facial emotion recognition web application. 
